@@ -1,4 +1,4 @@
-# La Catedral Barbearia - Website
+# La Catedral Barbearia - Landing Page
 
 Website completo para a barbearia La Catedral, desenvolvido com HTML, CSS e JavaScript.
 
